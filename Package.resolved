@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bulbapedia-core-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aureliayacob/Bulbapedia-Core-Package.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fcd0d548c6e96712a039b779abc6ef78c4f1482e"
+      }
+    }
+  ],
+  "version" : 2
+}
